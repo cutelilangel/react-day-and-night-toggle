@@ -2820,10 +2820,10 @@ queue-microtask@^1.2.2:
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-react-day-and-night-toggle@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/react-day-and-night-toggle/-/react-day-and-night-toggle-2.0.3.tgz#79a3ea2f12730f6de33d399f22cb50b2de2bd0c8"
-  integrity sha512-wFbNWzdeMAKjal2s1+70wu0fQSsksg1ClVTONHjkLoU6S8I0kE1P8yWQKsv2qyghDAkt5CVUY2krijnuOLFaUQ==
+react-day-and-night-toggle@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/react-day-and-night-toggle/-/react-day-and-night-toggle-2.0.4.tgz#6f0bb5ef9b9c7538077cc474c79f7d90299e6f38"
+  integrity sha512-EU0TQG/XTG/oq9IhXipbAmmeEZu8PFnwwzDIfHbtDqkvrgvnjpDxH4idhpyIzto9HYHj3ChZKkl79tOj02KRHA==
   dependencies:
     react ">=18"
     react-dom ">=18"
@@ -3321,10 +3321,10 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
-vite@^5.3.1:
-  version "5.3.3"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-5.3.3.tgz#5265b1f0a825b3b6564c2d07524777c83e3c04c2"
-  integrity sha512-NPQdeCU0Dv2z5fu+ULotpuq5yfCS1BzKUIPhNbP3YBfAMGJXbt2nS+sbTFu+qchaqWTD+H3JK++nRwr6XIcp6A==
+vite@^5.3.6:
+  version "5.3.6"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-5.3.6.tgz#e097c0a7b79adb2e60bec9ef7907354f09d027bd"
+  integrity sha512-es78AlrylO8mTVBygC0gTC0FENv0C6T496vvd33ydbjF/mIi9q3XQ9A3NWo5qLGFKywvz10J26813OkLvcQleA==
   dependencies:
     esbuild "^0.21.3"
     postcss "^8.4.39"
