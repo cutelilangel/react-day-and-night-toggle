@@ -1,6 +1,6 @@
 {
   "name": "react-day-and-night-toggle",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "author": "@cutelilangel",
   "license": "MIT",
   "description": "🌞Day & Night🌛 (light/dark) theme switch with pretty cool animation for React.",
@@ -78,10 +78,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carrymisss/react-day-and-night-toggle.git"
+    "url": "git+https://github.com/cutelilangel/react-day-and-night-toggle.git"
   },
   "bugs": {
-    "url": "https://github.com/carrymisss/react-day-and-night-toggle/issues"
+    "url": "https://github.com/cutelilangel/react-day-and-night-toggle/issues"
   },
-  "homepage": "https://github.com/carrymisss/react-day-and-night-toggle#readme"
+  "homepage": "https://github.com/cutelilangel/react-day-and-night-toggle#readme"
 }
