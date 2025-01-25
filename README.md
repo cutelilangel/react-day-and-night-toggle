@@ -48,6 +48,3 @@ const App = () => {
 | animationInactive | `boolean` | `true` | no | The button is disabled after being pressed during animation (that's 2 seconds). |
 | shadows | `boolean` | `true` | no | A shadow, dark at "day" mode and light at "night" mode, around the button. |
 | className | `string` | `undefined` | no | Your own classnames. |
-
-## License
-MIT © [carrymisss](https://github.com/carrymisss)
